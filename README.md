@@ -1,1 +1,1 @@
-# SafePlus Contract v. 1
+# SafePlus Contract v. 2
